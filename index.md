@@ -5,14 +5,14 @@
 ### iOS Development
 
 [NuCare - Nuclear Medicine Informational App](/sample_page)
+<img src="images/NuCare_Logo.png?raw=true"/>
+
+---
+[Nonprofit Management System](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Javs Data Structures and Algorithms](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
