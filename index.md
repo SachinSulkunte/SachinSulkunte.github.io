@@ -4,7 +4,7 @@
 
 ### iOS Development
 
-[NuCare - Nuclear Medicine Informational App](/sample_page)
+[NuCare - Nuclear Medicine Informational App](/nucare)
 <img src="images/NuCare_Logo.png?raw=true"/>
 
 ---
