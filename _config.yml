@@ -2,7 +2,7 @@ title: Sachin Sulkunte # name definition
 logo: "/images/PersonalImage.jpg?raw=true" # photo
 description: > # summary section
   Majoring in Computer Engineering at the University of Maryland at College Park with an interest in embedded systems and software development.
-  
+  <br>
   <a href="https://www.linkedin.com/in/sachinsulkunte/">My LinkedIn Profile</a> 
   <a href="https://github.com/SachinSulkunte/">My Github Profile</a> 
 theme: jekyll-theme-minimal
