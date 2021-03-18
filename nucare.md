@@ -15,16 +15,17 @@ Simple UI interactions via buttons and swipes allow the user to navigate through
 ### 3. Basic "Radiation Calculator"
 Program has a radiation calculator which is regulated by a dictionary, allowing users to select the type of treatment/test they are expecting to get and then returning an approximate radiation amount based on collected data. The application also characterizes this information in an easier, more digestible fashion by developing simple comparisons for the radiation result such as "Radiation Amount = Taking XX Plane Trips".
 ```Swift
- let natualBackgroundDose = BACKGROUND_DOSE
-        let dosage = usedDose/natualBackgroundDose
-        var str = ""
-        let frac = rationalApproximation(of: dosage)
-        if(dosage < 1){
-            if(frac.den < 10){
-                str = fractionToString(fraction: frac)
-            }else{
-                str = String((dosage * 100).rounded() / 10)
-            }
+ let naturalBackgroundDose = 3.1
+ let dosage = usedDose/naturalBackgroundDose
+ var str = ""
+ let doseFrac = rationalApproximation(of: dosage)
+ if(dosage < 1){
+   if(doseFrac.den < 10){
+     str = fractionToString(fraction: doseFrac)
+   }
+   else {
+     str = String((dosage * 100).rounded() / 10)
+   }
 }
 ```
 
