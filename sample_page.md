@@ -1,12 +1,12 @@
-## This can be your internal website page / project page
+## NuCare: iOS Informational Application for Nuclear Medicine Protocols
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** I completed this project as an intern with the U.S. Nuclear Regulatory Commission, during the summer of 2018. I, along with two other interns, worked to develop a self-guided project within the Office of Nuclear Material Safety and Safeguards. After researching the nuclear medicine field and the role the NRC plays in regulating it, I proposed that we develop a mobile application. The purpose of such an application would be to provide an accessible and integrated information source regarding nuclear medicine and specifically the safety regulations imposed by the NRC to ensure both patients and others in the process are as safe as possible.
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-```javascript
+```Java
 if (isAwesome){
   return true
 }
