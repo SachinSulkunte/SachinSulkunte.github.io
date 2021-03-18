@@ -9,13 +9,4 @@ description: > # summary section
   <a href="https://www.linkedin.com/in/sachinsulkunte/">My LinkedIn Profile</a> 
   <a href="https://github.com/SachinSulkunte/">My Github Profile</a> 
 theme: jekyll-theme-minimal
-google_analytics:
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-7LZQ6REC5K"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-7LZQ6REC5K');
-</script>
+google_analytics: G-7LZQ6REC5K # analytics tag
