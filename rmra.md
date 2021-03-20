@@ -1,18 +1,18 @@
-## NuCare: iOS Informational Application for Nuclear Medicine Protocols
+## RMRA Management System: MySQL Based Tool for Improving Organization Coordination and Efficiency
 
-**Project description:** I completed this project as an intern with the U.S. Nuclear Regulatory Commission, during the summer of 2018. I, along with two other interns, worked to develop a self-guided project within the Office of Nuclear Material Safety and Safeguards. After researching the nuclear medicine field and the role the NRC plays in regulating it, I proposed that we develop a mobile application. The purpose of such an application would be to provide an accessible and integrated information source regarding nuclear medicine and specifically the safety regulations imposed by the NRC to both patients and their families. The below demonstrates some of my specific work within this project.
+**Project description:** I completed this project during my time as President of the Rockville-Montgomery Robotics Association, a student-run nonprofit dedicated to providing STEM education to underrepresented and unprivileged populations. As the President of the nonprofit, I knew firsthand how difficult it was to coordinate the various outreach events that were running throughout the week and ensure that volunteers were engaged with the organization by signing up to present at events. This led me to the decision to develop a management system extended from the organization's public website that would enable authenticated users to access various functionalities.
 
-### 1. Provide Unified Information Source Regarding Nuclear Medicine Treatments and Diagnostic Tests
+### 1. Provide Access to Organization-Wide Objectives and Goals
 
-My role in the development of this app was mainly on the several existing types of treatments as well as diagnostic tests utilizing radioactive materials. The respective pages for each application covers a variety of important information, from expected radiation levels based on averages to what patients can expect from the process.
+I wanted all of our volunteers to be fully aware of the organization's current goals and what we were seeking to achieve so that in the event members missed a meeting, they would be able to see what the organization wants to achieve and in what timeline that goal was to be achieved. I built a page using PHP and CSS as well as a connection to a MySQL relational database that permitted the addition of "goals" and their parameters. Users could mark the goal as completed and also view the goals in a sorted list of those still needing to be completed.
 <img src="images/EBRTPage.png?raw=true"/>
 
-### 2. UI Interaction
-Simple UI interactions via buttons and swipes allow the user to navigate through treatment pages and see more information about particular parts of the process. The application is also properly constrained so as to format correctly on varying device sizes, from iPads to various iPhones.
+### 2. Volunteer Registration
+Users can sign up for any events that have been added to the event list. Selecting the event and choosing to submit alters the event list to include the volunteer's name on the event listing to indicate the number of volunteers signed up for an event. 
 <img src="images/TreatmentsPage.png?raw=true"/>
 
 
-### 3. Basic "Radiation Calculator"
+### 3. Event List: Attending Volunteers, Location, Date
 Program has a radiation calculator which is regulated by a dictionary, allowing users to select the type of treatment/test they are expecting to get and then returning an approximate radiation amount based on collected data. The application also characterizes this information in an easier, more digestible fashion by developing simple comparisons for the radiation result such as "Radiation Amount = Taking XX Plane Trips".
 ```Swift
  //Sample Code Section
