@@ -4,7 +4,7 @@
 
 ### Machine Learning
 [Optical Character Recognition + Event Classification](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/> <br>
 [Covid-19 Chatbot + Mask Detector](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
