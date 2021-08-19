@@ -10,7 +10,7 @@
 ---
 ### Web Development
 [Nonprofit Management System](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/> <br>
 [AWS S3 + Elasticsearch Front-end](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
