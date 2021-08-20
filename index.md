@@ -9,7 +9,7 @@
 <img src="images/thumbnail.png?raw=true"/>
 
 ### Web Development
-[Nonprofit Management System](/rmra)
+[Nonprofit Management System](/project_pages/rmra)
 <img src="images/login.png?raw=true"/> <br>
 [AWS S3 + Elasticsearch Front-end](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -19,7 +19,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### iOS Development
-[NuCare - Nuclear Medicine Informational App](/nucare)
+[NuCare - Nuclear Medicine Informational App](/project_pages/nucare)
 <img src="images/NuCare_Logo.png?raw=true"/>
 
 ---
