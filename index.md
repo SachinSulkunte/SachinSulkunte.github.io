@@ -5,7 +5,7 @@
 ### Machine Learning
 [Video Analytics](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/> <br>
-[Covid-19 Chatbot + Mask Detector](/ng_ai)
+[Covid-19 Chatbot + Mask Detector](/project_pages/chatbot)
 <img src="images/thumbnail.png?raw=true"/>
 
 ### Web Development
