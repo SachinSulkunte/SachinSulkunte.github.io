@@ -5,7 +5,7 @@
 ### 1. Training the Chatbot
 
 In order to train the model, I created my own dataset consisting of 'tags' and 'patterns'. A set of patterns were associated with each tag (or category) and consisted of common queries relating to the tag. I utilized a three-layer sequential model and Stochastic gradient descent to train a classifier. The model used a bag of words approach to classify input as belonging to a specific tag.
-<img src="images/thumbnail.png?raw=true"/>
+<img src="../images/thumbnail.png?raw=true"/>
 
 
 ### 2. Web Scraping
