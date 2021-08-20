@@ -2,8 +2,6 @@
 ---
 
 ### Machine Learning
-[Video Analytics](/pdf/sample_presentation.pdf)
-
 [Covid-19 Chatbot + Mask Detector](/project_pages/chatbot)
 
 ### Web Development
