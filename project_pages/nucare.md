@@ -5,11 +5,11 @@
 ### 1. Provide Unified Information Source Regarding Nuclear Medicine Treatments and Diagnostic Tests
 
 My role in the development of this app was mainly on the several existing types of treatments as well as diagnostic tests utilizing radioactive materials. The respective pages for each application covers a variety of important information, from expected radiation levels based on averages to what patients can expect from the process.
-<img src="images/EBRTPage.png?raw=true"/>
+<img src="../images/EBRTPage.png?raw=true"/>
 
 ### 2. UI Interaction
 Simple UI interactions via buttons and swipes allow the user to navigate through treatment pages and see more information about particular parts of the process. The application is also properly constrained so as to format correctly on varying device sizes, from iPads to various iPhones.
-<img src="images/TreatmentsPage.png?raw=true"/>
+<img src="../images/TreatmentsPage.png?raw=true"/>
 
 
 ### 3. Basic "Radiation Calculator"
