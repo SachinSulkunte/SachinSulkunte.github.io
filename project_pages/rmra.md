@@ -1,4 +1,5 @@
 ## RMRA Management System: MySQL Based Tool for Improving Organization Coordination and Efficiency
+<img src="../images/login.png?raw=true"/>
 
 **Project description:** I completed this project during my time as President of the Rockville-Montgomery Robotics Association, a student-run nonprofit dedicated to providing STEM education to underrepresented and unprivileged populations. As the President of the nonprofit, I knew firsthand how difficult it was to coordinate the various outreach events that were running throughout the week and ensure that volunteers were engaged with the organization by signing up to present at events. This led me to the decision to develop a management system extended from the organization's public website that would enable authenticated users to access various functionalities.
 
