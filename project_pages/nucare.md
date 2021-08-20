@@ -1,5 +1,5 @@
 ## NuCare: iOS Informational Application for Nuclear Medicine Protocols
-<img src="images/NuCare_Logo.png?raw=true"/>
+<img src="../images/NuCare_Logo.png?raw=true"/>
 
 **Project description:** I completed this project as an intern with the U.S. Nuclear Regulatory Commission, during the summer of 2018. I, along with two other interns, worked to develop a self-guided project within the Office of Nuclear Material Safety and Safeguards. After researching the nuclear medicine field and the role the NRC plays in regulating it, I proposed that we develop a mobile application. The purpose of such an application would be to provide an accessible and integrated information source regarding nuclear medicine and specifically the safety regulations imposed by the NRC to both patients and their families. The below demonstrates some of my specific work within this project.
 
