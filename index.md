@@ -6,7 +6,7 @@
 [Video Analytics](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/> <br>
 [Covid-19 Chatbot + Mask Detector](/project_pages/chatbot)
-<img src="images/thumbnail.png?raw=true"/>
+<img src="images/scrape.png?raw=true"/>
 
 ### Web Development
 [Nonprofit Management System](/project_pages/rmra)
