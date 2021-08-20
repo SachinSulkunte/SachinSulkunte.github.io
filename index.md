@@ -1,7 +1,4 @@
-## My Project Portfolio
-Contact Me:
-Email: sulkunte@gmail.com
-Phone: 301-605-0719
+## My Portfolio
 ---
 
 ### Machine Learning
