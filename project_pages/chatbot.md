@@ -7,6 +7,7 @@
 In order to train the model, I created my own dataset consisting of 'tags' and 'patterns'. A set of patterns were associated with each tag (or category) and consisted of common queries relating to the tag. I utilized a three-layer sequential model and Stochastic gradient descent to train a classifier. The model used a bag of words approach to classify input as belonging to a specific tag.
 <img src="images/thumbnail.png?raw=true"/>
 
+
 ### 2. Web Scraping
 To provide users with real-time information, I implemented web scraping using the BeautifulSoup4 library. Depending on the user request, the chatbot would query the web for results and return the desired information. Asking the chatbot for the nearest testing site would initiate a scrape to determine local testing sites in the area and the chatbot would display that information to the user. This also allows for keeping up to date with my University's actual mask policy.
 <img src="images/scrape.png?raw=true"/>
