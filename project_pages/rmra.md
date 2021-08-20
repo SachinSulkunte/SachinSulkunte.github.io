@@ -5,15 +5,15 @@
 ### 1. Provide Access to Organization-Wide Objectives and Goals
 
 I wanted all of our volunteers to be fully aware of the organization's current goals and what we were seeking to achieve so that in the event members missed a meeting, they would be able to see what the organization wants to achieve and in what timeline that goal was to be achieved. I built a page using PHP and CSS as well as a connection to a MySQL relational database that permitted the addition of "goals" and their parameters. Users could mark the goal as completed and also view the goals in a sorted list of those still needing to be completed.
-<img src="images/goals.png?raw=true"/>
+<img src="../images/goals.png?raw=true"/>
 
 ### 2. Volunteer Registration
 Users can sign up for any events that have been added to the event list. Selecting the event and choosing to submit alters the event list to include the volunteer's name on the event listing to indicate the number of volunteers signed up for an event. 
-<img src="images/volunteer.png?raw=true"/>
+<img src="../images/volunteer.png?raw=true"/>
 
 ### 3. Event List: Attending Volunteers, Location, Date
 A list of events sorted by date are displayed for users to view. Each list entry contains the location of the event, the date, the volunteers attending, as well as a description of what the event entails. The attending volunteers parameter is updated when a user registers to volunteer at an event through the registration page.
-<img src="images/events.png?raw=true"/>
+<img src="../images/events.png?raw=true"/>
 
 ```php
  <!--print out existing events-->
