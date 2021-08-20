@@ -16,6 +16,6 @@ Simple UI interactions via buttons and swipes allow the user to navigate through
 Program has a radiation calculator which is regulated by a dictionary, allowing users to select the type of treatment/test they are expecting to get and then returning an approximate radiation amount based on collected data. The application also characterizes this information in an easier, more digestible fashion by developing simple comparisons for the radiation result such as "Radiation Amount = Taking XX Plane Trips".
 
 ### 4. Application Video
-Created an application demo video for illustrating project functionality. The app is not currently hosted on the App Store however the majority of its functionality is demonstrated within the video I created.
+Created an application demo video for illustrating project functionality using Renderforest. The app is not currently hosted on the App Store however the majority of its functionality is demonstrated within the video I created.
 
 For more details see [App Demonstration Video](https://vimeo.com/295086496).
