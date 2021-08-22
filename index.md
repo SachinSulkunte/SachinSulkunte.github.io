@@ -1,7 +1,7 @@
 ## Project Portfolio
 ---
 
-### Machine Learning
+### Machine Learning | Artificial Intelligence
 [Covid-19 Chatbot + Mask Detector](/project_pages/chatbot)
 
 ### Web Development
