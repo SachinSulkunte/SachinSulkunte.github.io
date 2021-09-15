@@ -18,6 +18,9 @@
 [NuCare - Nuclear Medicine Informational App](/project_pages/nucare)
 
 ---
+
+I am currently working as a part-time intern doing robotics research at NIST. More details are available under the "7-DOF Robotic Arm" project link. I am actively looking for internship opportunities for Summer 2022.
+
 ### Contact Me
 Email: sulkunte@gmail.com
 <br>
