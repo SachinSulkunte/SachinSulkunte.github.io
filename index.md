@@ -19,7 +19,7 @@
 
 ---
 
-I am actively looking for internship opportunities for Summer 2022. Please contact me if I might be a good fit fopr your company!
+I am actively looking for internship opportunities for Summer 2022. Please contact me if I might be a good fit for your company!
 
 ### Contact Me
 Email: sulkunte@gmail.com
