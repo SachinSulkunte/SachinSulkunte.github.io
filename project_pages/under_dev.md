@@ -1,5 +1,5 @@
 ## These Projects Are Currently Under Development
-Thank you for your interest in my work! I currently have three main projects in development currently.
+Thank you for your interest in my work! I currently have three main projects in development.
 
 # Gesture Controller
 This is a machine learning project that is currently 80% completed. The main purpose is to enable users who might have trouble using a mouse to navigate their computers with ease. Using hand tracking modules from MediaPipe as well as gesture recognition models I trained, users are able to use a variety of recognized gestures to open up specific applications, adjust computer volume, or switch between tabs easily.
