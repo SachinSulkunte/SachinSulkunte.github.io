@@ -1,5 +1,5 @@
 ## Universal-Robots UR3 Robotic Arm
-<img src="../images/login.png?raw=true"/>
+<img src="../images/robot.png?raw=true"/>
 
 **Project description:** I completed this project as part of my coursework in the Robotics and Autonomous Systems Minor program. The project involved solving the inverse kinematic and forward kinematic equations for the UR3, a 6-DOF robotic arm.
 
