@@ -1,6 +1,8 @@
 ## Project Portfolio
 ---
 
+Thanks for checking out my personal website! I am a Computer Engineering student passionate about robotics and the future of autonomy. I am actively looking for internship opportunities for Summer 2022. Please feel free to reach out (contact information below) if you think I might be a good fit for your company.
+
 ### Machine Learning | Artificial Intelligence
 [Covid-19 Chatbot + Mask Detector](/project_pages/chatbot)
 
@@ -25,8 +27,6 @@
 [NuCare - Nuclear Medicine Informational App](/project_pages/nucare)
 
 ---
-
-I am actively looking for internship opportunities for Summer 2022. Please contact me if I might be a good fit for your company!
 
 ### Contact Me
 Email: sulkunte@gmail.com
