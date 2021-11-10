@@ -16,5 +16,6 @@ In order to mount our custom-PCBs, I designed lightweight yet strong mounts to b
 <img src="../images/mount.png?raw=true"/>
 
 More Info: 
-https://www.umdloop.com/
-https://dbknews.com/2021/03/07/umd-loop-engineering-competition-tunnel-boring-machine/
+
+[UMDLoop Site](https://www.umdloop.com/)
+[UMD Article](https://dbknews.com/2021/03/07/umd-loop-engineering-competition-tunnel-boring-machine/)
