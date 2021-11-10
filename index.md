@@ -6,13 +6,20 @@
 
 [Gesture-Based Controller for Computers (Under Development)](/project_pages/under_dev)
 
+### Embedded Systems
+[UMDLoop: Micro Tunnel Boring Machine](/project_pages/loop)
+
+[Arduino / Raspberry Pi](project_pages/arduino)
+
+### Robotics
+[7-DOF Robotic Arm (Under Development)](/project_pages/under_dev)
+
+[UR3 Simulations + Control](/project_pages/robo)
+
 ### Web Development
 [Nonprofit Management System](/project_pages/rmra)
 
 [AWS S3 + Elasticsearch Front-end (Under Development)](/project_pages/under_dev)
-
-### Robotics
-[7-DOF Robotic Arm (Under Development)](/project_pages/under_dev)
 
 ### iOS Development
 [NuCare - Nuclear Medicine Informational App](/project_pages/nucare)
