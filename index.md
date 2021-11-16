@@ -14,6 +14,8 @@ Thanks for checking out my personal website! I am a Computer Engineering student
 [Arduino / Raspberry Pi](project_pages/arduino)
 
 ### Robotics
+[LIDAR Simulation](/project_pages/lidar)
+
 [7-DOF Robotic Arm (Under Development)](/project_pages/under_dev)
 
 [UR3 Simulations + Control](/project_pages/robo)
