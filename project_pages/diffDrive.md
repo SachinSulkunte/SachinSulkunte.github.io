@@ -2,7 +2,7 @@
 
 **Project description:** I completed this project in order to use it as a base point for more complex robotics projects. Primarily, my goal was to integrate this robot with other projects such as the LIDAR sensor for SLAM as well as for path planning algorithms. Using the pygame package (due to easy visualization tools), I was able to simulate a differential drive robot controlled by user commands with a display for wheel velocities as well as the robot's angle.
 
-Demonstration: <video src="https://user-images.githubusercontent.com/41236722/141938673-df14ddb2-e90c-416c-8ab5-5776c6a73c04.mp4" data-canonical-src="https://user-images.githubusercontent.com/41236722/141938673-df14ddb2-e90c-416c-8ab5-5776c6a73c04.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;"></video>
+Demonstration: <video src="https://user-images.githubusercontent.com/41236722/141944548-d770cdb8-f7e2-4590-ad2a-5f4fa30fbacb.mp4" data-canonical-src="https://user-images.githubusercontent.com/41236722/141944548-d770cdb8-f7e2-4590-ad2a-5f4fa30fbacb.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;"></video>
 
 ### 1. Defining the Enviroment Class
 The Environment class is a simple class created to handle the map data as well as update the labels representing wheel velocities and robot angle. The class also contains a function used to draw the trail left behind the robot which allows for better visual understanding of the robot's movement relative to previous positions.
