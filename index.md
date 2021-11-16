@@ -16,6 +16,8 @@ Thanks for checking out my personal website! I am a Computer Engineering student
 ### Robotics
 [LIDAR Simulation](/project_pages/lidar)
 
+[Differential Drive Robot Simulation](/project_pages/diffDrive)
+
 [7-DOF Robotic Arm (Under Development)](/project_pages/under_dev)
 
 [UR3 Simulations + Control](/project_pages/robo)
