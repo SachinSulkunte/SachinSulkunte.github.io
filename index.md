@@ -12,10 +12,8 @@ Thanks for checking out my personal website! I am a Computer Engineering student
 
 [SLAM Implementation - LIDAR](/project_pages/slam)
 
-  #### Components
-  [LIDAR Simulation](/project_pages/lidar)
-
-  [Differential Drive Robot Simulation](/project_pages/diffDrive)
+* [LIDAR Simulation](/project_pages/lidar)
+* [Differential Drive Robot Simulation](/project_pages/diffDrive)
 
 [UR3 Simulations + Control (ROS + Gazebo)](/project_pages/robo)
 
