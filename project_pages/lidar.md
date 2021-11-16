@@ -1,5 +1,4 @@
 ## LIDAR Sensor Simulation Using Python
-<img src="../images/robot.png?raw=true"/>
 
 **Project description:** I completed this project in order to use it as a base point for more complex robotics projects. Primarily, my goal was to develop a SLAM (simultaneous localization and mapping) program which utilized a LIDAR sensor. Using the pygame package (due to easy visualization tools), I was able to simulate a LIDAR sensor which follows the location of the user's mouse, sending out beams at customizable intervals. The sensor can also be fed an uncertainty value which follows a Gaussian distribution in order to better simulate the data received by a real LIDAR sensor. 
 
