@@ -1,7 +1,7 @@
 ## Path Planning - Rapidly Expanding Random Tree (RRT) Algorithm
 
 **Project description:** I wanted to explore different methods of path planning. I decided to start by implementing the RRT algorithm as it both creates a graph and identifies a path. While this path is nonoptimal, the algorithm is relatively simple to implement and is typically faster than an algorithm like A* although A* finds shorter paths.
-Demonstration: <video src="https://user-images.githubusercontent.com/41236722/141938673-df14ddb2-e90c-416c-8ab5-5776c6a73c04.mp4" data-canonical-src="https://user-images.githubusercontent.com/41236722/141938673-df14ddb2-e90c-416c-8ab5-5776c6a73c04.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:300px;"></video>
+<video src="https://user-images.githubusercontent.com/41236722/142127729-16ac21de-564f-4f91-8f2d-2fa2e3fe116e.mp4" data-canonical-src="https://user-images.githubusercontent.com/41236722/142127729-16ac21de-564f-4f91-8f2d-2fa2e3fe116e.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:300px;"></video>
 
 ### 1. Defining the Map
 In order to implement this algorithm, I created several functions dedicated to generating a random series of obstacles (represented by grey squares) placed on the map. A start position and goal position are also defined and identified on the map as green circles. 
