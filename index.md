@@ -2,8 +2,8 @@
 ---
 
 Thanks for checking out my personal website! I am a Computer Engineering student passionate about robotics and autonomous technology. I am actively looking for internship opportunities for Summer 2022. Please feel free to reach out (contact information below) if you think I might be a good fit for your company.
-<br>
-Check Out My Work Experience: [Resume](/project_pages/Sulkunte_Sachin_Resume.pdf)
+<br><br>
+My Work Experience: [Resume](/project_pages/Sulkunte_Sachin_Resume.pdf)
 
 ### Machine Learning | Artificial Intelligence
 [Covid-19 Chatbot + Mask Detector](/project_pages/chatbot)
