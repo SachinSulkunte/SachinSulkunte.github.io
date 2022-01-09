@@ -3,16 +3,12 @@
 
 Thanks for checking out my personal website! I am a Computer Engineering student passionate about robotics and autonomous technology. I am actively looking for internship opportunities for Summer 2022. Please feel free to reach out (contact information below) if you think I might be a good fit for your company.
 <br><br>
-My Work Experience: [Resume](/project_pages/Sulkunte_Sachin_Resume.pdf)
-
-### Machine Learning | Artificial Intelligence
-[Covid-19 Chatbot + Mask Detector](/project_pages/chatbot)
-
-[Gesture-Based Controller for Computers (Under Development)](/project_pages/under_dev)
+My Work Experience: [Resume](/project_pages/Sachin_Sulkunte_Resume.pdf)
 
 ### Robotics
+[Autonomous Car - SLAM, Visual Odometry, Lane Detection, Adaptive Cruise Control](/project_pages/selfDriving)
 
-[SLAM Implementation - LIDAR](/project_pages/slam)
+[Simulated SLAM Implementation - LIDAR](/project_pages/slam)
 
 * [LIDAR Simulation](/project_pages/lidar)
 * [Differential Drive Robot Simulation](/project_pages/diffDrive)
@@ -23,11 +19,15 @@ My Work Experience: [Resume](/project_pages/Sulkunte_Sachin_Resume.pdf)
 
 [7-DOF Robotic Arm (Under Development)](/project_pages/under_dev)
 
+### Machine Learning | Artificial Intelligence
+[Covid-19 Chatbot + Mask Detector](/project_pages/chatbot)
+
+[Gesture-Based Controller for Computers (Under Development)](/project_pages/under_dev)
 
 ### Embedded Systems
 [UMDLoop: Micro Tunnel Boring Machine](/project_pages/loop)
 
-[Arduino / Raspberry Pi](project_pages/arduino)
+[Arduino / Raspberry Pi / STM32 Microcontrollers](project_pages/arduino)
 
 ### Web Development
 [Nonprofit Management System](/project_pages/rmra)
