@@ -7,9 +7,14 @@ I completed this project in order to apply a variety of skills towards the devel
 <br>
 
 ***Implemented Features:*** <br>
-Rule-Based Planning with Object Detection <br>
-SLAM + Visual Odometry <br>
-End-to-End Learning-Based Lane Detection <br>
-Adaptive Cruise Control <br>
-PID Controller <br>
-Path Planning using RRT Algorithm
+- Rule-Based Planning with Object Recognition and Detection <br>
+- SLAM <br>
+- End-to-End Learning-Based Lane Detection <br>
+- Adaptive Cruise Control <br>
+- PID Controller <br>
+- Path Planning using RRT Algorithm
+
+**Future Features**
+- PID Control Alternatives - [Predictive Functional Control](https://ieeexplore.ieee.org/document/7526765)
+- Automated Parking
+- Ackermann Steering System
