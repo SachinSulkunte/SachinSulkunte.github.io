@@ -15,6 +15,7 @@ I completed this project in order to apply a variety of skills towards the devel
 - Path Planning using RRT Algorithm
 
 **Future Features**
+- GUI for Simple Mapping and Setting Waypoints
 - PID Control Alternatives - [Predictive Functional Control](https://ieeexplore.ieee.org/document/7526765)
 - Automated Parking
 - Ackermann Steering System
