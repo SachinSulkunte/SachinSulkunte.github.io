@@ -19,3 +19,10 @@ I completed this project in order to apply a variety of skills towards the devel
 - PID Control Alternatives - [Predictive Functional Control](https://ieeexplore.ieee.org/document/7526765)
 - Automated Parking
 - Ackermann Steering System
+
+<br>
+Visualization:
+<img src="../images/RViz.png?raw=true"/>
+<br>
+Vehicle with Kinect Sensor, Jetson Nano, and Arduino Uno:
+<img src="../images/MobileRobot.jpeg?raw=true"/>
