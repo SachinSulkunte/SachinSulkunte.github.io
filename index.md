@@ -20,6 +20,9 @@ My Work Experience: [Resume](/project_pages/Sachin_Sulkunte_Resume.pdf)
 [7-DOF Robotic Arm (Under Development)](/project_pages/under_dev)
 
 ### Machine Learning | Artificial Intelligence
+
+[Internship at Praxis Engineering (General Dynamics IT)](/project_pages/praxis)
+
 [Covid-19 Chatbot + Mask Detector](/project_pages/chatbot)
 
 [Gesture-Based Controller for Computers (Under Development)](/project_pages/under_dev)
