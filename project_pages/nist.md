@@ -1,4 +1,4 @@
-# 7-DOF Robotic Arm
+# 3D Vision Systems and Emergency Response Robots
 
 I am currently working as a part-time intern with NIST's Intelligent Systems Division. I am currently responsible for the development of standards related to 3D vision systems in the manufacturing industry. I am working with several industry-grade vision solutions in addition to building a custom vision platform for benchmark testing. I am also integrating these systems with both a KUKA iiwr robotic arm as well as a UR5e robotic arm.
 
