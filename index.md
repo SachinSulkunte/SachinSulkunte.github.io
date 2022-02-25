@@ -17,7 +17,7 @@ My Work Experience: [Resume](/project_pages/Sachin_Sulkunte_Resume.pdf)
 
 [Path Planning - RRT (Rapidly Exploring Random Tree) Algorithm](/project_pages/rrt)
 
-[7-DOF Robotic Arm (Under Development)](/project_pages/under_dev)
+[Internship at National Institute of Standards and Technology](/project_pages/nist)
 
 ### Machine Learning | Artificial Intelligence
 
