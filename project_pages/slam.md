@@ -2,6 +2,7 @@
 
 ### Visual SLAM - ORB (Oriented FAST and Rotated BRIEF)
 I implemented ORB-Slam in order to create a visual SLAM system that could operate utilizing data from monocular cameras. Example images are shown below:
+
 **Starting Image Frame**
 <img src="../images/slamimg.png?raw=true"/>
 
