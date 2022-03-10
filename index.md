@@ -8,7 +8,7 @@ My Work Experience: [Resume](/project_pages/Sachin_Sulkunte_Resume.pdf)
 ### Robotics
 [Autonomous Car - SLAM, Visual Odometry, Lane Detection, Adaptive Cruise Control](/project_pages/selfDriving)
 
-[Simulated SLAM Implementation - LIDAR](/project_pages/slam)
+[SLAM Implementation - Visual and LIDAR](/project_pages/slam)
 
 * [LIDAR Simulation](/project_pages/lidar)
 * [Differential Drive Robot Simulation](/project_pages/diffDrive)
@@ -30,7 +30,7 @@ My Work Experience: [Resume](/project_pages/Sachin_Sulkunte_Resume.pdf)
 ### Embedded Systems
 [UMDLoop: Micro Tunnel Boring Machine](/project_pages/loop)
 
-[Arduino / Raspberry Pi / STM32 Microcontrollers](project_pages/arduino)
+[NVIDIA Jetson Nano / Arduino / Raspberry Pi / STM32 Microcontrollers](project_pages/arduino)
 
 ### Web Development
 [Nonprofit Management System](/project_pages/rmra)
