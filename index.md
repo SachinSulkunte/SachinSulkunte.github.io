@@ -25,7 +25,7 @@ My Work Experience: [Resume](/project_pages/Sachin_Sulkunte_Resume.pdf)
 
 [Covid-19 Chatbot + Mask Detector](/project_pages/chatbot)
 
-[Gesture-Based Controller for Computers (Under Development)](/project_pages/under_dev)
+[Gesture-Based Controller for Computers](/project_pages/gesture)
 
 ### Embedded Systems
 [UMDLoop: Micro Tunnel Boring Machine](/project_pages/loop)
@@ -34,8 +34,6 @@ My Work Experience: [Resume](/project_pages/Sachin_Sulkunte_Resume.pdf)
 
 ### Web Development
 [Nonprofit Management System](/project_pages/rmra)
-
-[AWS S3 + Elasticsearch Front-end (Under Development)](/project_pages/under_dev)
 
 ### iOS Development
 [NuCare - Nuclear Medicine Informational App](/project_pages/nucare)
