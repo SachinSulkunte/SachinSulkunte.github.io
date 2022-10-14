@@ -3,7 +3,7 @@
 
 Thanks for checking out my personal website! I am a Computer Engineering student passionate about robotics and autonomous technology. I am actively looking for internship opportunities for Summer 2023. Please feel free to reach out (contact information below) if you think I might be a good fit for your company.
 <br><br>
-My Work Experience: [Resume](/project_pages/Sachin_Sulkunte_Resume_22)
+My Work Experience: [Resume](/project_pages/Sachin_Sulkunte_Resume_22.pdf)
 
 ### Robotics
 [Autonomous Car - SLAM, Visual Odometry, Lane Detection, Adaptive Cruise Control](/project_pages/selfDriving)
