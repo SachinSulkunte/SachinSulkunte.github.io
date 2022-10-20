@@ -13,6 +13,11 @@ I completed this project in order to apply a variety of skills towards the devel
 > - Connecting to Arduino and Jetson Nano
 > - Assembling onto two-tiered frame
 
+> #### Initial Work with Camera
+> - Communication between Kinect camera and Jetson Nano using libfreenect library to get RGB and Depth data
+> - Build cameraUpdate() function into ROS node that publishes to ROS topic
+> - Visualize point cloud data in RViz by reading from ROS topic
+
 ***Implemented Features:*** <br>
 - Rule-Based Planning with Object Recognition and Detection <br>
 - SLAM <br>
