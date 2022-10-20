@@ -6,7 +6,7 @@ Thanks for checking out my personal website! I am a Computer Engineering student
 My Work Experience: [Resume](https://drive.google.com/file/d/1Mx5H7oFSiSDuNXE5X0BaJCBTQRT8Yg6g/view?usp=sharing)
 
 ### Robotics
-[Autonomous Car - SLAM, Visual Odometry, Lane Detection, Adaptive Cruise Control](/project_pages/selfDriving)
+[Autonomous Mobile Robot - SLAM, Visual Odometry, ROS](/project_pages/selfDriving)
 
 [SLAM Implementation - Visual and LIDAR](/project_pages/slam)
 
