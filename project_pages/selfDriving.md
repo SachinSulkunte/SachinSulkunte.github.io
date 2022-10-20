@@ -1,5 +1,8 @@
 # Autonomous Vehicle
 
+https://user-images.githubusercontent.com/41236722/197075385-df9e5ccc-a2f2-4a02-babd-3d72272658a6.mov
+
+
 ## Project description: <br>
 I completed this project in order to apply a variety of skills towards the development of a complex electromechanical system with autonomous capabilities. This "self-driving car" was built as a 4-motor differential drive robot for mechanical simplicity. A Jetson Nano is used for high-level decision making based on input from a RGBD-camera (Kinect Sensor). An Arduino is used for low-level motor control - receiving instructions via serial connection from the Nano. The system uses ROS for efficient feature implementation, with individual nodes representing features such as object detection and lane detection. RViz is used for 3D visualization. The controller subscribes to these nodes and makes steering and throttle decisions based upon a rule-based motion planning scheme. The RRT path planning algorithm is used for navigation to desired waypoints.
 <br>
@@ -52,3 +55,6 @@ I completed this project in order to apply a variety of skills towards the devel
 <br>
 **Robot Platform with Kinect Sensor, Jetson Nano, and Arduino Uno:**
 <img src="../images/MobileRobot.jpeg?raw=true"/>
+
+<img width="147" alt="generated_map" src="https://user-images.githubusercontent.com/41236722/197075413-ba71387c-5d20-49e3-a293-136bfa23b400.png">
+
