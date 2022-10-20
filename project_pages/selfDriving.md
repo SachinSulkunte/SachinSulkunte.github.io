@@ -8,10 +8,10 @@ I completed this project in order to apply a variety of skills towards the devel
 
 **Design Process:**
 
-1. #### Physical Assembly of Robot
-- Soldering connections between H-bridges and motors
-- Connecting to Arduino and Jetson Nano
-- Assembling onto two-tiered frame
+#### 1. Physical Assembly of Robot
+  - Soldering connections between H-bridges and motors
+  - Connecting to Arduino and Jetson Nano
+  - Assembling onto two-tiered frame
 
 > #### Initial Work with Camera
 > - Communication between Kinect camera and Jetson Nano using libfreenect library to get RGB and Depth data
