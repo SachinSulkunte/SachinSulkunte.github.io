@@ -17,6 +17,8 @@ My Work Experience: [Resume](https://drive.google.com/file/d/1Mx5H7oFSiSDuNXE5X0
 
 [Path Planning - RRT (Rapidly Exploring Random Tree) Algorithm](/project_pages/rrt)
 
+[Low-Level Robot Programming](/project_pages/tirslk)
+
 [Internship at National Institute of Standards and Technology](/project_pages/nist)
 
 ### Machine Learning | Artificial Intelligence
@@ -31,6 +33,8 @@ My Work Experience: [Resume](https://drive.google.com/file/d/1Mx5H7oFSiSDuNXE5X0
 [UMDLoop: Micro Tunnel Boring Machine](/project_pages/loop)
 
 [NVIDIA Jetson Nano / Arduino / Raspberry Pi / STM32 Microcontrollers](project_pages/arduino)
+
+[TI-MSP432 Microcontroller](/project_pages/tirslk)
 
 ### Web Development
 [Nonprofit Management System](/project_pages/rmra)
