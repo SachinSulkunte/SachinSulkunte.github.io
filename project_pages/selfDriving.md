@@ -35,21 +35,22 @@ I completed this project in order to apply a variety of skills towards the devel
   - Used RRT algorithm to solve for possible path through complete map given start and end points
   - Robot follows path (non-optimal) around objects
 
-***Implemented Features:*** <br>
+## Implemented Features: <br>
 - Rule-Based Motion Planning with Object Recognition and Detection <br>
 - SLAM <br>
 - PID Controller <br>
 - Path Planning using RRT Algorithm
 
-**Future Features**
+## Future Features
 - GUI for Simple Mapping and Setting Waypoints
 - PID Control Alternatives - [Predictive Functional Control](https://ieeexplore.ieee.org/document/7526765)
 - Automated Parking
 - Ackermann Steering System
+- End-to-End Lane Detection
 
 <br>
-Visualization:
+**RViz Visualization:**
 <img src="../images/RViz.png?raw=true"/>
 <br>
-Vehicle with Kinect Sensor, Jetson Nano, and Arduino Uno:
+**Robot Platform with Kinect Sensor, Jetson Nano, and Arduino Uno:**
 <img src="../images/MobileRobot.jpeg?raw=true"/>
