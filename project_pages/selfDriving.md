@@ -56,5 +56,6 @@ I completed this project in order to apply a variety of skills towards the devel
 **Robot Platform with Kinect Sensor, Jetson Nano, and Arduino Uno:**
 <img src="../images/MobileRobot.jpeg?raw=true"/>
 
+**Sample Map**
 <img width="147" alt="generated_map" src="https://user-images.githubusercontent.com/41236722/197075413-ba71387c-5d20-49e3-a293-136bfa23b400.png">
 
