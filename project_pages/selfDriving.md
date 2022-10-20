@@ -31,10 +31,13 @@ I completed this project in order to apply a variety of skills towards the devel
   - Implemented finite state machine using SMACH package in ROS
     - Uses object recognition results and ultrasonic sensor data to inform next state
 
+#### 6. Path Planning
+  - Used RRT algorithm to solve for possible path through complete map given start and end points
+  - Robot follows path (non-optimal) around objects
+
 ***Implemented Features:*** <br>
-- Rule-Based Planning with Object Recognition and Detection <br>
+- Rule-Based Motion Planning with Object Recognition and Detection <br>
 - SLAM <br>
-- End-to-End Learning-Based Lane Detection <br>
 - PID Controller <br>
 - Path Planning using RRT Algorithm
 
