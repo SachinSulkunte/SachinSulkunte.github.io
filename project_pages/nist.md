@@ -1,11 +1,6 @@
 # 3D Vision Systems and Emergency Response Robots
 
-I am currently working as a part-time intern with NIST's Intelligent Systems Division. I am currently responsible for the development of standards related to 3D vision systems in the manufacturing industry. I am working with several industry-grade vision solutions in addition to building a custom vision platform for benchmark testing. I am also integrating these systems with both a KUKA iiwr robotic arm as well as a UR5e robotic arm.
+I worked as a part-time intern with NIST's Intelligent Systems Division during my sophomore year of college. I engaged in a project dedicated to the development of standards related to 3D vision systems in the manufacturing industry. I worked with several industry-grade 3D-vision solutions in addition to a custom vision platform for benchmark testing. Specifically, I wrote code to integrate these systems with both a KUKA iiwr robotic arm as well as a UR5e robotic arm.
 
 **Pose Estimation of Parts in Bin**
 <img src="../images/pose_estimation.JPG?raw=true"/>
-
-I will later be working on developing and implementing machine learning algorithms and integrating 3D sensors and 360° cameras on a mobile emergency response robot to allow it to autonomously open doors. Some of my specific tasks involve:
-- Using ROS to control a mobile robot with a 7-DOF manipulator
-- Integrating an Intel RealSense sensor and a Theta 360° camera in ROS/Unity (in Windows) on the robot
-- Integrating an Oculus Rift VR headset with ROS/Unity to display an augmented reality view overlayed with the RealSense data
