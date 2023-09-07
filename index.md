@@ -3,7 +3,7 @@
 
 Thanks for checking out my personal website! I am a Computer Engineering student passionate about robotics and autonomous technology. I am actively looking for full-time roles beginning in Summer 2024. Please feel free to reach out [(contact information below)](#contact-me) if you think I might be a good fit for your company.
 <br><br>
-My Work Experience: [Resume](https://drive.google.com/file/d/1Mx5H7oFSiSDuNXE5X0BaJCBTQRT8Yg6g/view?usp=sharing)
+My Work Experience: [Resume](https://docs.google.com/document/d/1CRz62AD2WAE2i-t9eDkjcsn-oDAm2DIqHyxFyDgUlCw/edit?usp=share_link)
 
 ### Robotics
 [Autonomous Mobile Robot - SLAM, Visual Odometry, ROS](/project_pages/selfDriving)
