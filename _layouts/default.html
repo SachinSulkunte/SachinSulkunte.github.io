@@ -47,15 +47,16 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    {% if site.google_analytics %}
+    
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZJ020RF1YL"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
+    
       gtag('config', 'G-ZJ020RF1YL');
     </script>
-    {% endif %}
+
   </body>
 </html>
