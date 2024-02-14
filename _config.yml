@@ -9,9 +9,11 @@ description: > # summary section
   <a href="https://www.linkedin.com/in/sachinsulkunte/">View My LinkedIn Profile</a> 
   <br>
   <a href="https://www.github.com/SachinSulkunte/">View My Github Profile</a>
-  <br>
+  <br><br>
   Contact Me:
+  <br>
   E: sulkunte@gmail.com
+  <br>
   C: (301) 605-0719
   <br>
 theme: jekyll-theme-minimal
