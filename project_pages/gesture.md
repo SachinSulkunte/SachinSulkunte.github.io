@@ -6,7 +6,7 @@ Using a model to detect the location of the thumb and index finger, OpenCV is us
 
 Video:
 
-https://user-images.githubusercontent.com/41236722/199888183-8954bf67-b065-46c4-a691-f04bdc520e4e.mp4
+<video src="https://user-images.githubusercontent.com/41236722/199888183-8954bf67-b065-46c4-a691-f04bdc520e4e.mp4" data-canonical-src="https://user-images.githubusercontent.com/41236722/199888183-8954bf67-b065-46c4-a691-f04bdc520e4e.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:300px;"></video>
 
 ## General Control
 With the use of a convolutional neural network, certain gestures have been trained into a simple classification model. The code to manipulate what these gestures control is easily accessible for quick modification. Eventually, a GUI could be created that would allow users custom-configurations by altering what gestures control which actions. Current actions include opening the file explorer, browser, and the application menu. Here a quick demo of moving the mouse with a finger is shown with a gesture to function as a 'click'.
