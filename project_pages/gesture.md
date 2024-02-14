@@ -12,6 +12,4 @@ https://user-images.githubusercontent.com/41236722/199888183-8954bf67-b065-46c4-
 With the use of a convolutional neural network, certain gestures have been trained into a simple classification model. The code to manipulate what these gestures control is easily accessible for quick modification. Eventually, a GUI could be created that would allow users custom-configurations by altering what gestures control which actions. Current actions include opening the file explorer, browser, and the application menu. Here a quick demo of moving the mouse with a finger is shown with a gesture to function as a 'click'.
 
 
-https://github.com/SachinSulkunte/SachinSulkunte.github.io/assets/41236722/681f92ff-507b-43f4-be13-029429aba824
-
-
+<video src="https://github.com/SachinSulkunte/SachinSulkunte.github.io/assets/41236722/681f92ff-507b-43f4-be13-029429aba824" data-canonical-src="https://github.com/SachinSulkunte/SachinSulkunte.github.io/assets/41236722/681f92ff-507b-43f4-be13-029429aba824" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:300px;"></video>
