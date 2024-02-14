@@ -6,6 +6,6 @@ Due to the new semester starting and a heavy courseload, I haven't updated this 
 
 #### Quick Physics Demo With IK Solver
 
+<video src="https://github.com/SachinSulkunte/SachinSulkunte.github.io/assets/41236722/7fe8b703-a5cf-4ffa-86b7-94d05fccbf6c" data-canonical-src="https://github.com/SachinSulkunte/SachinSulkunte.github.io/assets/41236722/7fe8b703-a5cf-4ffa-86b7-94d05fccbf6c" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:300px;"></video>
 
-https://github.com/SachinSulkunte/SachinSulkunte.github.io/assets/41236722/7fe8b703-a5cf-4ffa-86b7-94d05fccbf6c
 
