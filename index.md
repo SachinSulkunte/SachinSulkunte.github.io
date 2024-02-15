@@ -5,6 +5,11 @@ Thanks for checking out my personal website! I am a Computer Engineering student
 <br><br>
 My Work Experience: [Resume](https://docs.google.com/document/d/1CRz62AD2WAE2i-t9eDkjcsn-oDAm2DIqHyxFyDgUlCw/edit?usp=share_link)
 
+### Current Projects
+[Quadruped Training Sim -> Real](/project_pages/quad)
+
+[AR Wearable Device](/project_pages/ar)
+
 ### Robotics
 [VR-Controlled 6DOF Robotic Manipulator](/project_pages/vrArm)
 
