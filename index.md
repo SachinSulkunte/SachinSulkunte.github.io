@@ -4,7 +4,6 @@
 Thanks for checking out my personal website! I am currently a Robotics Software Engineer at NVIDIA, working on the Isaac Sim and Isaac Lab products! For latest insights on my work please see my resume. This website showcases some of my past work, across previous internships, coursework, and personal projects.
 
 <br><br>
-My Work Experience: [Resume](https://docs.google.com/document/d/1ersnHDanquAzx_v5Y8nXXhu8znfEGy43xvTrF3sa9Iw/edit?usp=sharing)
 
 ### Current Projects
 [VR-Controlled 6DOF Robotic Manipulator](/project_pages/vrArm)
