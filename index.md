@@ -1,7 +1,8 @@
 ## Project Portfolio
 ---
 
-Thanks for checking out my personal website! I am a Computer Engineering student passionate about robotics and autonomous technology. I am actively looking for roles beginning after my graduation in December 2024. Please feel free to reach out directly if you think I might be a good fit for your company.
+Thanks for checking out my personal website! I am currently a Robotics Software Engineer at NVIDIA, working on the Isaac Sim and Isaac Lab products! For latest insights on my work please see my resume. This website showcases some of my past work, across previous internships, coursework, and personal projects.
+
 <br><br>
 My Work Experience: [Resume](https://docs.google.com/document/d/1ersnHDanquAzx_v5Y8nXXhu8znfEGy43xvTrF3sa9Iw/edit?usp=sharing)
 
