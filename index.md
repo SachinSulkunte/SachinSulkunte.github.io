@@ -3,14 +3,14 @@
 
 Thanks for checking out my personal website! I am currently a Robotics Software Engineer at NVIDIA, working on the Isaac Sim and Isaac Lab products! For latest insights on my work please see my resume. This website showcases some of my past work, across previous internships, coursework, and personal projects.
 
+*This site has not been updated recently, please reach out directly for latest updates on my work!*
+
 <br><br>
 
 ### Current Projects
 [VR-Controlled 6DOF Robotic Manipulator](/project_pages/vrArm)
 
 [Quadruped Training Sim -> Real](/project_pages/quad)
-
-[AR Wearable Device](/project_pages/ar)
 
 ### Robotics
 
